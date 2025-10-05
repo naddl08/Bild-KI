@@ -33,7 +33,7 @@ Photography of a red balloon on a table in a office in the style of René Magrit
 
 #### Prompt 1  (kompakte Version)
 ```
-Motiv: Terrasse eines Hauses im nordischen Modernstil mit Südausrichtung. ​
+Motiv: Haus mit Terrasse im nordischen Modernstil mit Südausrichtung. ​
 Stil: fotorealistische Architekturfotografie. ​
 Komposition: Blick aus Südwesten auf die Terrasse mit elektrischen Markisen, viel Raum für Haus und Garten sichtbar, hohe Eichen am Grundstücksrand, Garten mit Blumen, einigen Felsen und Rasen, ein Rasenmäher. ​
 Kamera/Objektiv: 50 mm, f/2,8. ​
