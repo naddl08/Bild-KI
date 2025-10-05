@@ -7,10 +7,13 @@
 Beschreibe dieses Bild detailliert im JSON-Format
 ```
 ```
-mehr Details bitte
+Mehr Details bitte
 ```
 ```
 Mit Aspect Ratio bitte
+```
+```
+Erstelle ein Bild mit dem folgenden JSON-Input: [JSON mit Änderungen]
 ```
 
 ### 2. Ein Wort macht den Unterschied
