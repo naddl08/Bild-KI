@@ -36,15 +36,15 @@ Photography of a red balloon on a table in a office in the style of René Magrit
 Erstelle ein fotorealistisches Bild.
 
 Motiv: Terrasse eines Hauses im nordischen Modernstil mit Südausrichtung. ​
-Stil: Fotografie, fotorealistische Architekturfotografie. ​
-Komposition: Blick aus Südwesten auf die Terrasse mit Pergola und elektrischen Markisen, viel Raum für Haus und Garten sichtbar, hohe Eichen am Grundstücksrand, Garten mit Blumen, einigen Felsen und Rasen, ein Rasenmäher. ​
+Stil: fotorealistische Architekturfotografie. ​
+Komposition: Blick aus Südwesten auf die Terrasse mit elektrischen Markisen, viel Raum für Haus und Garten sichtbar, hohe Eichen am Grundstücksrand, Garten mit Blumen, einigen Felsen und Rasen, ein Rasenmäher. ​
 Kamera/Objektiv: 50 mm, f/2,8. ​
-Licht: natürliches Seitenlicht, weich, früher Nachmittag, Reflektor zur Aufhellung, kein 3-Punkt-Licht. ​
+Licht: natürliches Seitenlicht, weich, früher Nachmittag, Reflektor zur Aufhellung. ​
 Farbe: weicher Kontrast, helle neutrale Palette im nordischen Look. ​
 Material/Details: klare Oberflächen mit leichter Patina, sichtbare Garten- und Terrassendetails. ​
 Qualität: high, HDR ±2 EV. Größe: 1024×576 (16:9). Format: JPEG. ​
 Hintergrund: nicht transparent. ​
-Beschränkungen: kein Text, kein Wasserzeichen, kein Rand, markenneutral. ​
+Beschränkungen: kein Text, kein Wasserzeichen, kein Rand, markenneutral, kein 3-Punkt-Licht. ​
 ```
 
 #### Prompt 2 (detaillierte Version)
