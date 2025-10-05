@@ -38,7 +38,7 @@ Erstelle ein fotorealistisches Bild.
 Motiv: Terrasse eines Hauses im nordischen Modernstil mit Südausrichtung. ​
 Stil: Fotografie, fotorealistische Architekturfotografie. ​
 Komposition: Blick aus Südwesten auf die Terrasse mit Pergola und elektrischen Markisen, viel Raum für Haus und Garten sichtbar, hohe Eichen am Grundstücksrand, Garten mit Blumen, einigen Felsen und Rasen, ein Rasenmäher. ​
-Kamera/Objektiv: 50 mm, f/2,8Hauses im nordischen Modernstil mit Südausrichtung. ​
+Kamera/Objektiv: 50 mm, f/2,8. ​
 Licht: natürliches Seitenlicht, weich, früher Nachmittag, Reflektor zur Aufhellung, kein 3-Punkt-Licht. ​
 Farbe: weicher Kontrast, helle neutrale Palette im nordischen Look. ​
 Material/Details: klare Oberflächen mit leichter Patina, sichtbare Garten- und Terrassendetails. ​
