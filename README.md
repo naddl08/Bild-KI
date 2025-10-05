@@ -16,14 +16,16 @@ Mit Aspect Ratio bitte
 Erstelle ein Bild mit dem folgenden JSON-Input: [JSON mit Änderungen]
 ```
 
-### 2. Ein Wort macht den Unterschied
+### 2. Text-to-Image
 
 ```
-Nenne mir 3 Ideen, wie ich Rolläden bewerben kann.
+Photography of a red cup on a table in an office.​
 ```
-  
 ```
-Nenne mir 3 unkonventionelle Ideen, wie ich Rolläden bewerben kann.
+Photography of a red balloon on a table in a modern German office
+```
+```
+Photography of a red balloon on a table in a office in the style of René Magritte
 ```
 
 ### 3. Chain-of-Thought Prompt
