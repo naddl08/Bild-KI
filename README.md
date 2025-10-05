@@ -47,8 +47,6 @@ Beschränkungen: kein Text, kein Wasserzeichen, kein Rand, markenneutral, kein 3
 
 #### Prompt 2 (detaillierte Version)
 ```
-Erstelle ein fotorealistisches Bild.
-
 Motiv: Haus mit Terrasse im nordischen Modernstil mit Südausrichtung​
 Stil: fotorealistische Architekturfotografie; vor Ort aufgenommen; RAW​
 Komposition: Blick aus Südosten auf die Terrasse; viel Raum um Haus und Garten belassen für weitere Details; hohe Eichen am Grundstücksrand; Garten mit Blumen, einigen Felsen und Rasen; ein Rasenroboter mäht den Rasen; an der Hausseite steht ein Grill. Kamerahöhe 1,6 m; leichte Perspektivenkonvergenz; Horizont gerade.​
