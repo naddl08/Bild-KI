@@ -68,7 +68,7 @@ Wir haben ein Bild generiert und möchten die gerenderte Pergola mit einem Model
 Bitte generiere das Bild nochmals und ersetze die Markisen mit einer Pergola wie auf diesem Bild
 ```
 ```
-Ersetze die Markisen durch die Pergola.
+Ersetze die Markise durch die Pergola.
 ```
 
 #### Prompt 4 (überarbeiten mit Bildvorlage)
