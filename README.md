@@ -1,4 +1,4 @@
-# Übungsprompts
+# Bild-KI
 
 
 ### 1. Instruktion & Kontext
