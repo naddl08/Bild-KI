@@ -65,7 +65,7 @@ Ausgabe: 1024×576 (16:9), JPEG​
 #### Prompt 3 (überarbeiten mit Bildvorlage)
 Wir haben ein Bild generiert und möchten die gerenderte Pergola mit einem Model ersetzen, dass mehr unserem Produkt entspricht
 ```
-Bitte generiere das Bild nochmals und ersetze die Pergola mit einer Version wie auf diesem Bild
+Bitte generiere das Bild nochmals und ersetze die Markisen mit einer Pergola wie auf diesem Bild
 ```
 
 #### Prompt 4 (überarbeiten mit Bildvorlage)
