@@ -1,12 +1,16 @@
 # Bild-KI
 
 
-### 
+### 1. Image-to-Text
 
-https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/Deepfakes/deepfakes_node.html
 ```
-Bitte führe eine umfassende Analyse meiner Homepage durch und erstelle einen detaillierten Optimierungsbericht. Konzentriere dich dabei auf folgende Punkte: Benutzerfreundlichkeit, Design, SEO und Usability. 
-Zielgruppe: Hausbesitzer, Ziel: mehr Kontaktanfragen für Sonnenschutz und Terrassenwelten.
+Beschreibe dieses Bild detailliert im JSON-Format
+```
+```
+mehr Details bitte
+```
+```
+Mit Aspect Ratio bitte
 ```
 
 ### 2. Ein Wort macht den Unterschied
