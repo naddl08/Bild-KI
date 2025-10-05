@@ -33,7 +33,7 @@ Photography of a red balloon on a table in a office in the style of René Magrit
 
 #### Prompt 1  (kompakte Version)
 ```
-Erstelle ein fotorealistisches Foto.​
+Erstelle ein fotorealistisches Bild.
 
 Motiv: Terrasse eines Hauses im nordischen Modernstil mit Südausrichtung. ​
 Stil: Fotografie, fotorealistische Architekturfotografie. ​
@@ -49,7 +49,7 @@ Beschränkungen: kein Text, kein Wasserzeichen, kein Rand, markenneutral. ​
 
 #### Prompt 2 (detaillierte Version)
 ```
-Erstelle ein fotorealistisches Foto.​
+Erstelle ein fotorealistisches Bild.
 
 Motiv: Terrasse eines Hauses im nordischen Modernstil mit Südausrichtung​
 Stil: Fotografie, realistische Architekturfotografie; vor Ort aufgenommen; RAW​
