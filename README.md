@@ -67,6 +67,9 @@ Wir haben ein Bild generiert und möchten die gerenderte Pergola mit einem Model
 ```
 Bitte generiere das Bild nochmals und ersetze die Markisen mit einer Pergola wie auf diesem Bild
 ```
+```
+Ersetze die Markisen durch die Pergola.
+```
 
 #### Prompt 4 (überarbeiten mit Bildvorlage)
 Wir haben ein Bild generiert und möchten die gerenderte Pergola wegnehmen und die Fenster mit Südlage mit Jalousien mit Solar Modul umrüsten.
