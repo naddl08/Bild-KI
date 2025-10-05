@@ -28,101 +28,63 @@ Photography of a red balloon on a table in a modern German office
 Photography of a red balloon on a table in a office in the style of René Magritte
 ```
 
-### 3. Chain-of-Thought Prompt
+### 3. ChatGPT 5
 
 
+#### Prompt 1  (kompakte Version)
+```
+Motiv: Terrasse eines Hauses im nordischen Modernstil mit Südausrichtung. ​
 
-#### Variante 3.1
-```
-Ich habe eine Reklamation eines Kunden bekommen, weil ein Sonnenschutzprodukt nach einem Monat nicht mehr richtig funktioniert. Der Kunde ist enttäuscht. Erstelle mir Schritt für Schritt eine Gesprächsanleitung, um die Reklamation bestmöglich abzuwickeln.
-```
+Stil: Fotografie, fotorealistische Architekturfotografie. ​
 
-#### Variante 3.2
-```
-Bitte bearbeite die Reklamation zum Sonnenschutzprodukt des Kunden. Überlege wie man Schritt für Schritt reagieren kann:
-1. Identifiziere die spezifischen Probleme des Kunden?
-2. Schreibt der Kunde sachbezogen oder emotional (verärgert, wütend, etc.)?
-3. Welche Lösungsansätze kannst du anbieten, um den Kunden zufrieden zu stellen?
-4. Über welchen Kommunikationskanal wird die Reklamation bearbeitet?
-Bitte frage mich auch nach weiteren Details, wenn du zusätzliche Informationen benötigst, um die Reklamation zu bearbeiten.
-```
+Komposition: Blick aus Südwesten auf die Terrasse mit Pergola und elektrischen Markisen, viel Raum für Haus und Garten sichtbar, hohe Eichen am Grundstücksrand, Garten mit Blumen, einigen Felsen und Rasen, ein Rasenmäher bei , 6000 K, Polfilter, Stativ. ​
 
+Kamera/Objektiv: 50 mm, f/2,8Hauses im nordischen Modernstil mit Südausrichtung. ​
 
-### 4. Multi-Step-Prompt
-```
-Ich möchte einen social-media Post zum Thema Sonnenschutz und Markisen verfassen. Welches sind die 5 wichtigsten Punkte, die du wissen musst, damit ein guter Post entsteht?
-```
+Licht: natürliches Seitenlicht, weich, früher Nachmittag, Reflektor zur Aufhellung, kein 3-Punkt-Licht. ​
 
-#### Folgeprompts
-```
-Erstelle mir eine Anleitung in Listenform
+Farbe: weicher Kontrast, helle neutrale Palette im nordischen Look. ​
+
+Material/Details: klare Oberflächen mit leichter Patina, sichtbare Garten- und Terrassendetails. ​
+
+Qualität: high, HDR ±2 EV. Größe: 1024×576 (16:9). Format: JPEG. ​
+
+Hintergrund: nicht transparent. ​
+
+Beschränkungen: kein Text, kein Wasserzeichen, kein Rand, markenneutral. ​
 ```
 
+#### Prompt 2 (detaillierte Version)
 ```
-Zielgruppe sind Hausbesitzer. Produkt heißt Martha Markise. Die Markise ist sehr stabil. Es ist bald Sommer. Meine Telefonnummer ist. 12121212
+Erstelle ein fotorealistisches Foto.​
+
+Motiv: Terrasse eines Hauses im nordischen Modernstil mit Südausrichtung​
+Stil: Fotografie, realistische Architekturfotografie; vor Ort aufgenommen; RAW​
+Komposition: Blick aus Südosten auf die Terrasse mit Pergola und elektrischen Shades; viel Raum um Haus und Garten belassen für weitere Details; hohe Eichen am Grundstücksrand; Garten mit Blumen, einigen Felsen und Rasen; ein Rasenroboter mäht den Rasen; an der Hausseite steht ein Grill. Kamerahöhe 1,6 m; leichte Perspektivenkonvergenz; Horizont gerade.​
+Kamera/Objektiv: 42 mm Festbrennweite, f/8, 1/125 s, ISO 200, 5500 K, Polfilter, Stativ; Vollformat-Sensor; Matrixmessung; Einzelaufnahme​
+Licht: natürliches Seitenlicht, weich, früher Nachmittag; dünne Schleierwolken mit leichten Helligkeitsschwankungen; Reflektor zur leichten Aufhellung; realistische Kontakt-Schatten; luftiges Licht mit dezenten partikeln​
+Farbe: weicher Kontrast, helle neutrale Palette im nordischen Look, sRGB; weiche Highlight-Roll-Off; keine überzogene Klarheit/Texture.​
+Material/Details: Oberflächen mit Patina; sichtbare Holzmaserung; kleine Kratzer; Schraubenköpfe; Staubkörner auf dem Grill; Rasen leicht ungleichmäßig; wenige Blütenblätter am Boden; Markisentuch minimal wellig; Kabel am Grill dezent sichtbar.​
+Qualität: high; Einzelbelichtung mit natürlicher Dynamik; Highlights nicht ausgebrannt, Schatten nicht gecrusht​
+Hintergrund: -​
+Beschränkungen: kein Text, kein Wasserzeichen, kein Rand, markenneutral​
+Optik: leichte Vignette (0,2 EV); minimale chromatische Aberration an Kanten; feines Sensorrauschen; leichte tonnenförmige Verzeichnung; natürliche Tonkurve; keine Überschärfung; keine Glow-Effekte​
+Ausgabe: 1024×576 (16:9), JPEG, Hintergrund nicht transparent
 ```
 
+
+#### Prompt 3 (überarbeiten mit Bildvorlage)
+Wir haben ein Bild generiert und möchten die gerenderte Pergola mit einem Model ersetzen, dass mehr unserem Produkt entspricht
 ```
-Bitte modifiziere den Post für Instagramm und Facebook und füge einen Call-to-action hinzu.
+Bitte generiere das Bild nochmals und ersetze die Pergola mit einer Version wie auf diesem Bild
 ```
 
-### 5. Role Prompt
+#### Prompt 4 (überarbeiten mit Bildvorlage)
+Wir haben ein Bild generiert und möchten die gerenderte Pergola wegnehmen und die Fenster mit Südlage mit Jalousien mit Solar Modul umrüsten.
 ```
-Agiere als erfahrener Experte rund um Rollladen- und Sonnenschutz als ausgezeichneter Journalist, der über Rollladen, Tore und Sonnenschutz sowie innovative Lösungen berichtet. Als Branchenkenner und erfahrener Journalist schreibst du einen fachspezifischen und innovativen Artikel über die Messe “R+T”.
+Generiere ein neues Bild von diesem Haus ohne Pergola. Baue an die großen Fenster mit Südlage Jalousien, die ein kleines Solar Modul haben wie auf diesen Bildern
 ```
-
-### 6. Blog Post für meine Website
 ```
-Analysiere das Produkt [https://www.somfy.de/smarter-wohnen/heizkosten-sparen/heizkosten-sparen-mit-tahoma] auf meiner Webseite [https://www.somfy.de], damit Du verstehst, worum es bei dem Produkt geht und was es leisten kann. Agiere als Marketing-Experte der einen Fokus darauf legt, Beiträge zu verfassen, die zum Handeln auffordern (Call-to-Action) und erstelle mir für meine Website einen Blog-Beitrag. Schreibe den Beitrag im Sprachstil meiner Webseite und gebe mir den Beitrag als strukturierte Liste aus.
-```
-#### Folgeprompts
-```
-Kürze den Post auf die Hälft der Länge!
+Ergänze die Terrasse hinten mit einer Pergola die Jalousien mit solar Modul hat wie in diesen zwei Beispielbildern. Die Jalousie soll ein ¼ heruntergelassen sein
 ```
 
-```
-Füge ein paar Emojis hinzu.
-```
-
-### 7. Einladung zum „Tag der offenen Tür“ - Multi-Step Prompt
-```
-Lass uns gemeinsam eine Einladung für den „Tag der offenen Tür“ entwickeln. Beginne mit Schritt 1: Definiere die Zielgruppe. Denke an potenzielle Kunden, die an Haus- und Gartengestaltung interessiert sind. Was motiviert diese Zielgruppe? Schreibe das auf. Danach gehen wir zu Schritt 2 über.“.
-```
-```
-Schritt 1: Definiere die Zielgruppe, die zur Veranstaltung eingeladen werden soll. Beschreibe ihre Interessen und Bedürfnisse (z. B. Familien, Hausbesitzer, Gartenliebhaber). 
-```
-```
-Schritt 2: Überlege, welche Informationen in der Einladung enthalten sein müssen. Beantworte diese Fragen: Wann und wo findet der „Tag der offenen Tür“ statt? Welche besonderen Highlights oder Attraktionen gibt es (z. B. Live-Demonstrationen, Gewinnspiele, spezielle Rabatte)? Gibt es eine Anmeldung oder ist der Eintritt frei? 
-```
-```
-Schritt 3: Formuliere eine Hauptbotschaft, die die Zielgruppe anspricht. Beantworte dabei: Welche Vorteile hat ein Besuch für die Zielgruppe? Welchen emotionalen Ton möchtest du setzen (z. B. herzlich, inspirierend, exklusiv)?
-```
-```
-Schritt 4: Erstelle einen ansprechenden Call-to-Action. Überlege, welche konkrete Handlung du von der Zielgruppe erwartest (z. B. „Besuchen Sie uns am 10. Dezember!“ oder „Melden Sie sich noch heute an und sichern Sie sich ein Willkommensgeschenk!“).
-```
-```
-Schritt 5: Erstelle nun die Einladung visuell und sprachlich einladend.
-```
-
-### 8. Entwickle eine detaillierte Wartungsanleitung für Rollläden.
-```
-Entwickle eine detaillierte Wartungsanleitung für Rollläden. Stelle dazu iterativ folgende Fragen und warte auf Antworten:
-
-1. Um die Wartung gezielt zu planen, welche Art von Rollladen haben Sie?: (z. B. manueller oder elektrischer Rollladen, mit Fernbedienung oder Smarthome-Steuerung)
-2. Vorhandene Sensoren: Verfügt der Rollladen über integrierte Sensoren, die besondere Wartung erfordern? (z. B. Wettersensoren wie Regen- oder Windsensoren, Bewegungssensoren)
-3. Wie alt ist der Rollladen?
-4. Wie häufig wird der Rollladen im Alltag genutzt? (z. B. täglich, saisonal, gelegentlich):
-
-Erstelle erste die Wartungsanleitung, wenn alle Fragen beantwortet wurden. Wenn eine der 4 Fragen nicht beantwortet wurde, beharre darauf, dass Du die Wartungsanleitung nicht fertigstellen kannst, wenn nicht jede Fragen beantwortet wurde.
-Sind alle Fragen beantwortet, dann bedanke dich für die Geduld und die guten Antworten und formatiere sodann die Anleitung in einer übersichtlichen Tabelle mit folgenden Informationen: Wartungsschritt Nr., Wartungsschritt, Was ist zu tun, Wie erkenne ich, dass ich alles richtig gemacht habe.
-
-Weise abschließend plakativ darauf hin, dass in konkreten Fällen, von denen Du bitte 3 Stück aufführst, eine Wartung durch ein Fachmann durchgeführt werden sollte. Frage dann anschließend noch Mal, ob solche oder ähnliche Fälle bereits vorhanden sind. Falls nein, erkundige Dich, ob das Ergebnis zufriedenstellen ist.
-```
-#### Folgeprompt
-```
-Was wären denn ähnliche Fälle?
-```
-### 9. Fun Prompt:
-```
-Erkläre Prozentrechnung für 12 jährige.
-```
