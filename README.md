@@ -74,9 +74,6 @@ Ersetze die Markise durch die Pergola.
 #### Prompt 4 (überarbeiten mit Bildvorlage)
 Wir haben ein Bild generiert und möchten die gerenderte Pergola wegnehmen und die Fenster mit Südlage mit Jalousien mit Solar Modul umrüsten.
 ```
-Generiere ein neues Bild von diesem Haus ohne Markisen. Baue an die Fenster stattdessen Jalousien, die ein kleines Solar Modul haben wie auf diesen Beispielbildern
-```
-```
-Ergänze die Terrasse hinten mit einer Pergola die Jalousien mit solar Modul hat wie in diesen zwei Beispielbildern. Die Jalousie soll ein ¼ heruntergelassen sein
+Ersetze die Markisen durch Jalousien, die ein kleines Solar-Modul haben wie auf diesem Beispielbild​
 ```
 
