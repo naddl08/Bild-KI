@@ -1,9 +1,13 @@
 # Bild-KI
 
 
-### 1. Image-to-Text
-
 https://chatgpt.com/
+
+https://aistudio.google.com/prompts/new_chat
+
+
+
+### 1. Image-to-Text
 
 ```
 Beschreibe dieses Bild detailliert im JSON-Format
